@@ -1,0 +1,7 @@
+Git - version control system
+If u change ur code at different times it saves a copy of all the versions
+Github - cloud version of git
+repository - directory or a folder 
+git init - creates the file to be a part of git
+git status - gives the status and recent changes 
+git add nameoffile makes git track the file 
