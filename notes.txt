@@ -24,6 +24,9 @@ that u can continue working on it.
 learning merge 
 
 learning merge in three ways
+=======
+learning merge
+
 
 git branch name : creates a new branch
 git checkout name: takes u to that folder
