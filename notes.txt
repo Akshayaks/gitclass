@@ -21,7 +21,9 @@ On Branch Master: main file to which eachh other file changes will be linked
 when u create a branch : you create another version of ur code 
 that u can continue working on it.
 
-learning three way merge
+learning merge 
+
+learning merge in three ways
 
 git branch name : creates a new branch
 git checkout name: takes u to that folder
